@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleQuiz</string>
+    <string name="question">Question%1$d of $2$d</string>
+    <string name="results">%1$d guesses, %2$0.2f%% correct</string>
+    <!--%1 = 1st para-->
+    <!--%2 = 2nd para-->
+    <!--$d = int datatype-->
+    <!--$s = str datatype-->
+    <!--$f = floating point datatype-->
+    <string name="status"></string>
+</resources>
